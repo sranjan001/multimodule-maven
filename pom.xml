@@ -10,6 +10,7 @@
   
   <modules>
     <module>components</module>
+    <module>applications</module>
   </modules>
   
   <build>
